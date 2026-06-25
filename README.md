@@ -6,3 +6,5 @@
 [![Coverage](https://codecov.io/gh/MagicTensors/MyJuliaExamplePackage.jl/branch/main/graph/badge.svg)](https://codecov.io/gh/MagicTensors/MyJuliaExamplePackage.jl)
 
 This is a example template Julia package to experiment with Julia CI and documentation.
+
+The Answer to the Ultimate Question of Life, the Universe, and Everything: This isn't a well posed question.
